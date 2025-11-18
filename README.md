@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Rafia%20Bubbles&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Rafia%Momota&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Rafia+Momota" alt="Typing SVG">
 </p>
 
