@@ -60,6 +60,13 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### 🟩 **E-Commerce / Dropshipping Tools**
+![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=flat&logo=shopify&logoColor=white)
+![DSers](https://img.shields.io/badge/-DSers-FF6F61?style=flat)
+![Spocket](https://img.shields.io/badge/-Spocket-4A90E2?style=flat)
+![CJ Dropshipping](https://img.shields.io/badge/-CJ_Dropshipping-FF5733?style=flat)
+
+
 ---
 
 ## 📊 GitHub Stats
